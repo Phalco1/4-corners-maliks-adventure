@@ -1,4 +1,4 @@
-# 4-corners-maliks-adventures
+# 4-corners-maliks-adventures-install/controls
 
 Travel outside the gates of the kindom and see what wild lives in the desert! Play as Malik and slay creatures and level up!
 
